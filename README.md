@@ -5,17 +5,19 @@ This repository contains the record of solved problems under WNCC's Summer of Co
 **1.Resources:**
 - DSA & Algorithms tutorial on codechef: https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation
 
-- useful containers in STL C++: string,vector, pair , stacks ,queues , maps , sets, priority queues : https://www.hackerearth.com/practice/notes/standard-template-library/
+- Nice article on STL in C++: https://www.hackerearth.com/practice/notes/standard-template-library/
 
-- C++ STL useful Algos: See sort , lower bound , upper bound functions and their complexity (logN when sorted) for arrays , vectors: https://www.geeksforgeeks.org/c-magicians-stl-algorithms/amp/
+- Article on STL inbuilt algos: https://www.geeksforgeeks.org/c-magicians-stl-algorithms/amp/
 
 - Solve these problems : https://github.com/wncc/CodeInQuarantine/blob/week_2/Week_2_CC/README.md
+
+- Good site for Copmetitve Programming: https://cp-algorithms.com/
 
  
 **2.Problems Solved:**
 
-Leetcode | Arrays | https://leetcode.com/submissions/detail/322169782/ (09/04/2020)
-Codechef | Arrays |  https://www.codechef.com/viewsolution/31573304 (09/04/2020)
+-Leetcode | Arrays | https://leetcode.com/submissions/detail/322169782/ (09/04/2020)
+-Codechef | Arrays |  https://www.codechef.com/viewsolution/31573304 (09/04/2020)
 
 Codechef | Arrays |  https://www.codechef.com/viewsolution/31772618 (12/04/2020)
 
