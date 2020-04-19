@@ -24,4 +24,5 @@ This repository contains the record of solved problems under WNCC's Summer of Co
 - Codechef | Stacks | https://www.codechef.com/viewsolution/31915438 (16/04/2020)  
 - Codechef | Recursion | https://www.codechef.com/viewsolution/31955735 (17/04/2020)  
 - Codechef | Recursion | https://www.codechef.com/viewsolution/31959681 (17/04/2020)  
-- Codechef | Ad hoc | https://www.codechef.com/viewsolution/32004712 (19/04/2020)
+- Codechef | Ad hoc | https://www.codechef.com/viewsolution/32004712 (19/04/2020)  
+- Codechef | Strings | https://www.codechef.com/viewsolution/32009306 (19/04/2020)
