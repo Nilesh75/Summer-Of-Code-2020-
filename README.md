@@ -19,10 +19,8 @@ This repository contains the record of solved problems under WNCC's Summer of Co
 - Leetcode | Arrays | https://leetcode.com/submissions/detail/322169782/ (09/04/2020)
 - Codechef | Arrays |  https://www.codechef.com/viewsolution/31573304 (09/04/2020)
 - Codechef | Arrays |  https://www.codechef.com/viewsolution/31772618 (12/04/2020)
-
-Codechef | Strings | https://www.codechef.com/viewsolution/31775641 (12/04/2020)
-
-Codechef | Strings | https://www.codechef.com/viewsolution/31779413 (12/04/2020)
+ Codechef | Strings | https://www.codechef.com/viewsolution/31775641 (12/04/2020)
+ Codechef | Strings | https://www.codechef.com/viewsolution/31779413 (12/04/2020)
 
 Codechef | Stacks | https://www.codechef.com/viewsolution/31915438 (16/04/2020)
 
