@@ -29,5 +29,5 @@ This repository contains the record of solved problems under WNCC's Summer of Co
 - Codechef | Ad hoc | https://www.codechef.com/viewsolution/32013253 (19/04/2020)  
 - Codechef | Ad hoc | https://www.codechef.com/viewsolution/32014120 (19/04/2020)  
 - SPOJ | Binary Search | https://www.spoj.com/status/AGGRCOW,nilesh47/ (20/04/2020)  
-
+- Codechef | Greedy | https://www.codechef.com/viewsolution/32309262 (26/04/2020)
 
